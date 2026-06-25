@@ -1,0 +1,13 @@
+^\.buildlibrary$
+^\.pre-commit-config\.yaml$
+^Makefile$
+^workflow$
+^\.claude$
+^.lintr$
+^tests/.lintr$
+^\.github$
+^CODE_OF_CONDUCT\.md$
+^docsInternal$
+^jenkinsfile$
+^reshape$
+^sandbox$

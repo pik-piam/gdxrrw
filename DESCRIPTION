@@ -1,8 +1,8 @@
 Package: gdxrrw
 Title: An Interface Between 'GAMS' and R
-Version: 1.0.10.9005
+Version: 1.0.11
 Depends: R (>= 3.0)
-Date: 2021-04-02
+Date: 2026-06-25
 SystemRequirements: GAMS (>= 33.0.0)
 Authors@R: c(person("Steve","Dirkse", role=c("aut","cre"),
 	             email="R@gams.com"),
@@ -18,3 +18,4 @@ URL: http://www.gams.com
 License: EPL2 with Secondary License GPL-2.0 or greater
 Imports: reshape2
 LazyData: no
+Config/roxygen2/version: 8.0.0

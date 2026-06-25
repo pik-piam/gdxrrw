@@ -1,0 +1,14 @@
+ValidationKey: '20855919'
+AutocreateReadme: no
+AutocreateCITATION: no
+AcceptedWarnings:
+- 'Warning: package ''.*'' was built under R version'
+- 'Warning: namespace ''.*'' is not available and has been replaced'
+- too many arguments for format
+- Non-standard license specification
+- gdxrrw/libs/gdxrrw.so
+AcceptedNotes: is not mentioned in the DESCRIPTION file
+allowLinterWarnings: yes
+enforceVersionUpdate: no
+skipCoverage: yes
+UsePkgDown: no
